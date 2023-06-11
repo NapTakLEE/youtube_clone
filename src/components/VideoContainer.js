@@ -5,7 +5,7 @@ import Dropdown  from './Dropdown'
 function VideoContainer() {
     return (
         <div className='p-4 flex flex-col space-y-4 items-center'>
-            <Image src="https://i.ytimg.com/vi/7EtQqLZ-PCM/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJv_1QmFs0Rp3lhWNfXGUOyGOKPg"
+            <Image src="https://i.ytimg.com/an_webp/Vho4am2gAuo/mqdefault_6s.webp?du=3000&sqp=CJTQl6QG&rs=AOn4CLDjTQUo_3yZibfqp8LDk7LqDWIHEQ"
                 height={200} width={400} className='rounded-lg' aly="" />
             <div className="flex flex-row justify-between space-x-2 w-full p-4">
                 <div className='rounded-full'> Avat</div>
