@@ -22,8 +22,8 @@ function CatogoryBar() {
             <ArrowLeftIcon className='h-6 w-6'/>
         </button>
         <div className='flex flex-row space-x-4 py-8 px-2 overflow-x-auto scrollbar'>
-            {catogoryList.map((name) => 
-            <Item name={name}/>
+            {catogoryList.map((name, i) => 
+            <Item name={name} key={i}/>
             )}
         </div>
         <button className='bg-gradient-to-l from-white to-transparent'>

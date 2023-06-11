@@ -114,7 +114,7 @@ export default function dropdown() {
                     'block px-4 py-2 text-sm'
                   )}
                 >
-                  Don't recommand this channel
+                  Don&#39;t recommand this channel
                 </a>
               )}
             </Menu.Item>
